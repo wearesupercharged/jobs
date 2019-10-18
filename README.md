@@ -25,4 +25,4 @@ Write unit tests for critical parts of your app. The process of writing tests fo
 
 ## Challenges
 
-### [Javascript Engineer Challenge - Overlay Meny](instructions/angular/challenge.md)
+### [Javascript Engineer Challenge - Overlay Meny](instructions/angular-challenge/README.md)
