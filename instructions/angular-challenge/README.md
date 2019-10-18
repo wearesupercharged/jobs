@@ -9,7 +9,7 @@ Please complete this challenge and make your repository accessible to:
 
 **App Replication**
 
-Build an Angular app that replicates the look and behavior of the given example: 
+Build an Angular app that replicates the look and behavior of the given example (or borderlands.mp4 found in same directory): 
 
 ![](borderlands.gif)
 
