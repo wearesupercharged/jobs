@@ -1,27 +1,28 @@
-# AngularChallenge
+# Javascript Engineer Challenge
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
+Thank you for your interest in the Supercharged Software Engineer team! This project gives us a chance to see your Javascript programming skills.
 
-## Development server
+Please complete this challenge and make your repository accessible to:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- [iamsupercharged](https://github.com/iamsupercharged) (rayan@supercharged.gg)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+**App Replication**
 
-## Build
+Build an Angular app that replicates the look and behavior of the given example: 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+![](borderlands.gif)
 
-## Running unit tests
+The full functioning overlay can be found by visiting [the Borderlands 3 category on Twitch's website](https://www.twitch.tv/directory/game/Borderlands 3) and click any live stream. There is no need for the actual views to be interactive. 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+It is up to you to decide which other details you'd want to implement.
 
-## Running end-to-end tests
+Feel free to include any new features you can come up with.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Other Tips
 
-## Further help
+- Consider how to set up the perfect base to eventually keep your code structure as the project's front-end base.
+- Consider how data will be fetched and displayed on screen.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+**SETUP**
+Clone the current repo, npm install and get going! Good luck!
