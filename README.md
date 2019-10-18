@@ -1,4 +1,4 @@
-# Supercharged Mobile Challenges
+# Supercharged Engineering Challenges
 
 ## Instructions
 Create a new private GitHub repository and push your commits to it as you are completing the challenge.
