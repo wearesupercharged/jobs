@@ -7,9 +7,9 @@ Please complete this challenge and make your repository accessible to:
 - [iamsupercharged](https://github.com/iamsupercharged) (rayan@supercharged.gg)
 
 
-**App Replication**
+**Video overlay Replication**
 
-Build an Angular app that replicates the look and behavior of the given example (or borderlands.mp4 found in same directory): 
+Build an Angular app that replicates the look and behavior of the given video overlay example (or borderlands.mp4 found in same directory): 
 
 ![](borderlands.gif)
 
