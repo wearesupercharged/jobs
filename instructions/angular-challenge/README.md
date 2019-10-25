@@ -7,9 +7,9 @@ Please complete this challenge and make your repository accessible to:
 - [iamsupercharged](https://github.com/iamsupercharged) (rayan@supercharged.gg)
 
 
-**App Replication**
+**Video overlay Replication**
 
-Build an Angular app that replicates the look and behavior of the given example: 
+Build an Angular app that replicates the look and behavior of the given video overlay example (or borderlands.mp4 found in same directory): 
 
 ![](borderlands.gif)
 
@@ -23,6 +23,6 @@ Feel free to include any new features you can come up with.
 
 - Consider how to set up the perfect base to eventually keep your code structure as the project's front-end base.
 - Consider how data will be fetched and displayed on screen.
+- The goal of the exercise is to showcase not only your ability to implement a set design (with animations) but also your elegance in writing code. You do not need to have real data displayed or do any research on content. 
 
-**SETUP**
-Clone the current repo, npm install and get going! Good luck!
+**Clone the current repo, npm install and get going! Good luck!**

@@ -1,11 +1,11 @@
-# Supercharged Mobile Challenges
+# Supercharged Engineering Challenges
 
 ## Instructions
 Create a new private GitHub repository and push your commits to it as you are completing the challenge.
 
-Once you are ready, please download a copy of the repo and attach it to an email for us to review.
+Once you are ready, please push your code and allow access to iamsupercharged detailed [here](instructions/angular-challenge).
 
-Please include a short introduction about yourself either in the README or as part of the email.
+Please include a short introduction about yourself in the README.
 
 Don't hesitate to ask us questions. Displaying creativity is a bonus in all challenges.
 
@@ -25,4 +25,4 @@ Write unit tests for critical parts of your app. The process of writing tests fo
 
 ## Challenges
 
-### [Javascript Engineer Challenge - Overlay Meny](instructions/angular/challenge.md)
+### [Javascript Engineer Challenge - Overlay App](instructions/angular-challenge)
