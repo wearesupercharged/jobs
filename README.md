@@ -27,4 +27,4 @@ Write unit tests for critical parts of your app. The process of writing tests fo
 
 ### [Javascript Engineer Challenge - Overlay App](instructions/angular-challenge)
 
-### [ML Engineer Challenge - Screen Recording + Recognition](instructions/ml-challenge)
+### [ML Engineer Challenge - Screen Capture + Object Detection](instructions/ml-challenge)
