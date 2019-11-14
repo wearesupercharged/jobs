@@ -7,10 +7,10 @@ Please complete this challenge and make your repository accessible to:
 - [iamsupercharged](https://github.com/iamsupercharged) (rayan@supercharged.gg)
 
 
-**Small Backend making use of the Twitter API**
+**Small Backend making use of the Twitter & Spotify API**
 
-Use the Twitter API to fetch sequentially (one by one) 5 different profile's statuses with the following endpoint:
--  [GET statuses/timeline](https://developer.twitter.com/en/docs/tweets/timelines/api-reference/get-statuses-user_timeline)
+You should make use of the following endpoint to listen to the real-time tweets from 5 different profiles:
+- [POST statuses/filter](https://developer.twitter.com/en/docs/tweets/filter-realtime/api-reference/post-statuses-filter)
 
 Twitter profiles we like (you can choose your own too) :
 	@elonmusk
@@ -19,10 +19,9 @@ Twitter profiles we like (you can choose your own too) :
 	@ninja
 	@wendys
 
-In a separate service, you should make use of the following endpoints to listen to the real-time tweets from @realDonaldTrump:
-- [POST statuses/filter](https://developer.twitter.com/en/docs/tweets/filter-realtime/api-reference/post-statuses-filter)
+You should also make use of the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) in order to fetch your currently played song every second (with song name, artists and progress). 
 
-Aggregate the twitter notifications with the fetched timeline and only write them in a JSON file every 5 seconds. Then move to the next twitter profile and aggregate it with donaldtrump realtime tweets in another JSON file. This action should only stop once it has finished fetching each profile and created 5 different JSON files. 
+Aggregate the twitter notifications together with the last fetched spotify song and write the new data to a new JSON file every 5 seconds. Stop the action once 7 files have been created.
 
 ![](base-architecture.png)
 
