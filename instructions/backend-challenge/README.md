@@ -31,7 +31,8 @@ Aggregate the twitter notifications with the fetched timeline and only write the
 
 ![](base-architecture.png)
 
-##Implementation in AWS##
+## Implementation in AWS ##
+
 Think about how you would organize this project's architecture in AWS, if data was not written in JSON but rather sent through webhooks. A simple drawing of your different AWS components will work.
 
 ## Other Tips
