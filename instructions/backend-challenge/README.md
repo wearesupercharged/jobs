@@ -15,7 +15,7 @@ You should develop a backend service (with the framework of your choice) compose
 - Method that writes gathered data to a json file every 5 seconds (once one user's timeline has been written, move to next account to fetch profile)
 
 Use the Twitter API to fetch sequentially (one by one) 5 different profile's statuses with the following endpoint:
--  [GET statuses/timeline](https://developer.twitter.com/en/docs/tweets/timelines/api-reference/get-statuses-user_timeline) i
+-  [GET statuses/timeline](https://developer.twitter.com/en/docs/tweets/timelines/api-reference/get-statuses-user_timeline)
 
 Twitter profiles we like (you can choose your own too) :
 	@elonmusk
